@@ -1,0 +1,47 @@
+/* Navbar Styling */
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #000 !important;
+}
+
+/* Mobile Dropdown Styling */
+#nav-list {
+  background-color: #fff; /* Distinguishes from background */
+  border: 1px solid #e7e7e7;
+  margin: 0;
+}
+
+#nav-list li {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+#nav-list li a {
+  text-align: center;
+  color: #333;
+}
+
+/* Page Heading */
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Tall Content Section */
+#content-box {
+  background-color: #999; /* Gray background as per mockup */
+  padding: 15px;
+  min-height: 1000px; /* Forces page to be scrollable */
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#content-box h3 {
+  margin-top: 0;
+  font-weight: bold;
+}
+
+#content-box p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
